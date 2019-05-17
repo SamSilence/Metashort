@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#mau direcode? Astaga dragon
 
 echo "
 METASPLOIT              _
