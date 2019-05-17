@@ -8,7 +8,9 @@ METASPLOIT              _
  ___) | | | | (_) | |  | |_
 |____/|_| |_|\___/|_|   \__|
                     VERSION
-" | lolcat
+''''''''''''''''''''''''''''
+By SAM$
+
 
 read -p "your IP: " ip
 read -p "your back door name: " nm
